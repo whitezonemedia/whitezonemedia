@@ -8,7 +8,7 @@
     With over <strong>150 satisfied clients</strong> and a team of certified professionals, White Zone Media has become a go-to digital partner for small and medium-sized businesses across Alwar and Gurugram. Whether you're a startup looking for visibility or an established brand ready to scale online, WZM offers tailored solutions that bring measurable results.
   </p>
 
-  <h2>🚀 A Mission Rooted in Business Growth</h2>
+  <h2>A Mission Rooted in Business Growth</h2>
 
   <p>
     At <strong>White Zone Media</strong>, our mission is simple: empower businesses to succeed online. From boosting your search engine rankings to designing high-conversion websites and running effective ad campaigns, everything we do is focused on <strong>growth, visibility, and ROI</strong>.
@@ -90,5 +90,5 @@
 
   <ul>
     <li><strong>Visit us:</strong> <a href="https://www.whitezonemedia.com" target="_blank">www.whitezonemedia.com</a></li>
-    <li><strong>Email:</strong> <a href="mailto:info@whitezonemedia.com">info@whitezonemedia.com</a></li>
+    <li><strong>Email:</strong> <a href="mailto:sales@whitezonemedia.com">info@whitezonemedia.com</a></li>
   </ul>

@@ -64,7 +64,6 @@
 
   <h3>Contact Us Today:</h3>
   <ul>
-    <li>Phone: [Your Number]</li>
     <li>Email: <a href="mailto:sales@whitezonemedia.com">sales@whitezonemedia.com</a></li>
     <li>Website: <a href="https://www.whitezonemedia.com" target="_blank">www.whitezonemedia.com</a></li>
   </ul>

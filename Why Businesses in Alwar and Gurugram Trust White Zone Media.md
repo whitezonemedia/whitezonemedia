@@ -90,5 +90,5 @@
 
   <ul>
     <li><strong>Visit us:</strong> <a href="https://www.whitezonemedia.com" target="_blank">www.whitezonemedia.com</a></li>
-    <li><strong>Email:</strong> <a href="mailto:sales@whitezonemedia.com">info@whitezonemedia.com</a></li>
+    <li><strong>Email:</strong> <a href="mailto:sales@whitezonemedia.com">sales@whitezonemedia.com</a></li>
   </ul>

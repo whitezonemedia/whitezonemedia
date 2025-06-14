@@ -62,7 +62,6 @@
 
   <h3>Contact White Zone Media</h3>
   <p>
-    📞 <strong>Phone:</strong> [Your Contact Number]<br>
     📧 <strong>Email:</strong> <a href="mailto:sales@whitezonemedia.com">sales@whitezonemedia.com</a><br>
     🌐 <strong>Website:</strong> <a href="https://www.whitezonemedia.com" target="_blank">www.whitezonemedia.com</a>
   </p>

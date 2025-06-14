@@ -50,7 +50,6 @@
   <p>Are you a business owner in Rajasthan looking to grow digitally? Now is the time to connect with the team that’s helping shape the digital future of the state.</p>
 
   <p>
-    <strong>Phone:</strong> [Your Contact Number]<br>
     <strong>Email:</strong> <a href="mailto:sales@whitezonemedia.com">sales@whitezonemedia.com</a><br>
     <strong>Website:</strong> <a href="https://www.whitezonemedia.com" target="_blank">www.whitezonemedia.com</a>
   </p>

@@ -2,7 +2,7 @@
   <p><strong>Alwar/Gurugram, India — June 2025</strong><br>
   In an era where digital presence is no longer optional, <strong>White Zone Media (WZM)</strong> has emerged as a true leader in India’s digital transformation space. Headquartered in Alwar with a fast-growing base in Gurugram, WZM is redefining how businesses establish, grow, and sustain themselves online. More than just a digital agency, it has become a one-stop destination for comprehensive IT solutions, brand development, and performance-driven marketing.</p>
 
-  <p>From startups and small businesses to large enterprises, White Zone Media has successfully partnered with over <strong>150 clients</strong> across multiple industries, helping each one create a distinct, powerful presence in the crowded digital marketplace. Their portfolio of more than <strong>200 completed projects</strong> tells a story of innovation, precision, and unwavering commitment to quality.</p>
+  <p>From startups and small businesses to large enterprises, White Zone Media has successfully partnered with over <strong>150 clients</strong> across multiple industries, helping each one create a distinct, powerful presence in the crowded digital marketplace. Their portfolio of more than <strong>50+ completed projects</strong> tells a story of innovation, precision, and unwavering commitment to quality.</p>
 
   <h2>Empowering Businesses with a Purpose-Driven Vision</h2>
   <p>At the heart of White Zone Media lies a simple yet powerful mission — to empower businesses through innovative, goal-oriented digital solutions. The team at WZM believes in <em>combining technical expertise with creativity</em>, resulting in work that is not only functional but also visually compelling and strategically impactful.</p>

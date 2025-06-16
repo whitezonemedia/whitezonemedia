@@ -59,7 +59,7 @@
   <h2><a href="#">Proven Results and Client Satisfaction</a></h2>
 
   <p>
-    White Zone Media has delivered over 200 successful projects with a 95% client retention rate. Here’s what some of our satisfied clients have to say:
+    White Zone Media has delivered over 50+ successful projects with a 95% client retention rate. Here’s what some of our satisfied clients have to say:
   </p>
 
   <blockquote>

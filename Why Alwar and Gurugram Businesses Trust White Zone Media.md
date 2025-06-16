@@ -87,4 +87,3 @@
 
   <p><strong>📧 Email:</strong> sales@whitezonemedia.com</p>
   <p><strong>🌐 Website:</strong> <a href="https://www.whitezonemedia.com">www.whitezonemedia.com</a></p>
-  <p><strong>📞 Phone:</strong> [Your Number]</p>

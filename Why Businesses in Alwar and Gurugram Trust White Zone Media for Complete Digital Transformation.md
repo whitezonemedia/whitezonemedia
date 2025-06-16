@@ -102,5 +102,4 @@
     <strong>Contact Us:</strong><br>
     Email: <a href="mailto:sales@whitezonemedia.com">sales@whitezonemedia.com</a><br>
     Website: <a href="https://www.whitezonemedia.com" target="_blank">www.whitezonemedia.com</a><br>
-    Phone: [Your Number]
   </p>
